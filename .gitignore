@@ -33,5 +33,5 @@ vendor/bundle
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
-# Ignore other unneeded files.
-.DS_Store
+/config/database.yml
+.env
