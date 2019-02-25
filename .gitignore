@@ -35,3 +35,4 @@ vendor/bundle
 
 # Ignore other unneeded files.
 .DS_Store
+.env
