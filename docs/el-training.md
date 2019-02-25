@@ -46,10 +46,7 @@
 - Ruby
 - Ruby on Rails
 - PostgreSQL
-<<<<<<< HEAD
-=======
 - 【オプション要件】Dockerを利用して開発環境を構築する
->>>>>>> upstream/master
 
 サーバについては以下を利用していただきたいです。
 

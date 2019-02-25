@@ -34,5 +34,4 @@ vendor/bundle
 /config/master.key
 
 # Ignore other unneeded files.
-.DS_Store
 .env
